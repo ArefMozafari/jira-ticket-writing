@@ -1,0 +1,16 @@
+{
+  "name": "jira-ticket-writing",
+  "owner": {
+    "name": "Aref Mozafari"
+  },
+  "metadata": {
+    "description": "Agent skill that writes Jira tickets and acceptance criteria in one shared, tester-readable shape."
+  },
+  "plugins": [
+    {
+      "name": "jira-ticket-writing",
+      "source": "./",
+      "description": "A symptom title, a short non-technical description, and three to five pass/fail acceptance criteria."
+    }
+  ]
+}

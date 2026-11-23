@@ -1,0 +1,5 @@
+{
+  "name": "jira-ticket-writing",
+  "version": "1.0.0",
+  "description": "One shared shape for Jira tickets: a symptom title, a short non-technical description, and testable acceptance criteria."
+}
