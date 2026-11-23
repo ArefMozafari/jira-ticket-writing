@@ -7,11 +7,9 @@ check on screen. The skill is in `skills/jira-ticket-writing/SKILL.md`.
 ## Install (Claude Code)
 
 ```
-/plugin marketplace add <owner>/jira-ticket-writing
+/plugin marketplace add ArefMozafari/jira-ticket-writing
 /plugin install jira-ticket-writing@jira-ticket-writing
 ```
-
-Replace `<owner>/jira-ticket-writing` with the GitHub path where this repository is hosted.
 
 ## Use
 
