@@ -1,0 +1,11 @@
+{
+  "name": "jira-ticket-writing",
+  "version": "1.0.0",
+  "description": "One shared shape for Jira tickets: a symptom title, a short non-technical description, and testable acceptance criteria.",
+  "author": {
+    "name": "Aref Mozafari",
+    "url": "https://github.com/ArefMozafari"
+  },
+  "license": "MIT",
+  "keywords": ["jira", "acceptance-criteria", "tickets", "qa", "agent-skill"]
+}
