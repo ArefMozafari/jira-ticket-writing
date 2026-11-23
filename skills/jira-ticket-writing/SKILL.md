@@ -28,8 +28,9 @@ Four parts, in this order. Each carries only what the "is this ready?" decision 
 2. **مراحل بازتولید** (steps to reproduce): a numbered `1.` list, the fewest steps that reach the
    problem. Skip this part for a feature with nothing to reproduce.
 3. **معیار پذیرش** (acceptance criteria): see below.
-4. **نکته** (note): only when the steps have a trap, such as a needed account state or a device. Skip
-   it otherwise.
+4. **نکته** (note): only when the steps have a trap, such as a needed account state or a device. Include
+   it only when the reporter's text or the ticket's facts state the trap; never invent one. Skip it
+   otherwise.
 
 The merge or pull request link goes last, once the work has one, as a markdown link:
 `مرج ریکوئست: [title](url)`.
